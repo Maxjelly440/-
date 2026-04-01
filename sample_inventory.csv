@@ -1,0 +1,6 @@
+sku,annual_demand,unit_cost,lead_time_days,demand_std_daily,order_cost,holding_rate,service_level
+SKU-001,12000,18,12,10,150,0.22,0.98
+SKU-002,8000,30,18,12,200,0.20,0.97
+SKU-003,25000,6,7,15,100,0.25,0.95
+SKU-004,3500,120,25,4,260,0.18,0.99
+SKU-005,15000,10,10,18,130,0.24,0.96
